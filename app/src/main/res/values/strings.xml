@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string-array name="isispinner">
+        <item>isi satu</item>
+        <item>isi dua</item>
+        <item>isi tiga</item>
+    </string-array>
+</resources>
