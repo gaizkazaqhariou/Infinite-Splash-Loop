@@ -9,8 +9,7 @@ import android.view.WindowManager;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class SplashActivity extends AppCompatActivity {
-
-    private int lama = 4000;
+    private int lama = 5000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
